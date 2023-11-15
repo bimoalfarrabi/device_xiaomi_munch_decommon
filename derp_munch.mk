@@ -25,8 +25,8 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
-# Tag official
-DERP_BUILDTYPE := Official
+# Tag Unofficial
+DERP_BUILDTYPE := Unofficial
 
 # Inherit some common device props
 TARGET_SUPPORTS_QUICK_TAP := true
